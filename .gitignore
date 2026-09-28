@@ -1,0 +1,11 @@
+prep/
+.DS_Store
+*.pyc
+__pycache__/
+.env
+.ipynb_checkpoints/
+2604_rpt1.code-workspace
+.claude/
+.vscode/
+architecture_playbook.md
+architecture_playbook.html
